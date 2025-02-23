@@ -1,6 +1,12 @@
-# Jobq
-Jobq (WIP) is a language-agnostic distributed background job system. This is a durable, highly scalable and reliable system which doesn't need any additional infrastructure 
+<h1 align="center">JobQ</h1>
+<div align="center">
+ <strong>
+    Jobq (WIP) is a language-agnostic distributed background job system. This is a durable, highly scalable and reliable system which doesn't need any additional infrastructure 
 like Redis, Postgres/mysql or pub/sub for it's operation.
+ </strong>
+</div>
+
+<br />
 
 # Features
 - Simple API to produce/consume jobs
