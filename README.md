@@ -1,7 +1,8 @@
 <h1 align="center">JobQ</h1>
 <div align="center">
- <strong>
-    JobQ (WIP) is a language-agnostic distributed background job system. This is a durable, highly scalable and reliable system which doesn't need any additional infrastructure 
+ <strong> Status: Under Development </strong> <br><br>
+ <strong>  
+    JobQ is a language-agnostic distributed background job system. This is a durable, highly scalable and reliable system which doesn't need any additional infrastructure 
 like Redis, Postgres/mysql or pub/sub for it's operation.
  </strong>
 </div>
