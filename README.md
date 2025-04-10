@@ -2,7 +2,7 @@
 <div align="center">
  <strong> Status: Under Development </strong> <br><br>
  <strong>  
-    JobQ is a language-agnostic distributed background job system. This is a durable, highly scalable and reliable system which doesn't need any additional infrastructure 
+    JobQ is a language-agnostic distributed background job system for AI and backend workflows at any scale. This is a durable, highly scalable and reliable system which doesn't need any additional infrastructure 
 like Redis, Postgres/mysql or pub/sub for it's operation.
  </strong>
 </div>
