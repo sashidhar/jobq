@@ -37,6 +37,6 @@ The following are being tested locally.
 
 # Phase 2: Advanced features (Planned) 
 - Batch job submission
-- periodic jobs (a.k.a cron jobs)
+- Cron jobs
 - Workflows
   
