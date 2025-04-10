@@ -16,3 +16,26 @@ like Redis, Postgres/mysql or pub/sub for it's operation.
 - Job scheduling
 - Automatic retries on job failure or timeouts
 - Batch job submission
+
+# Phase 1: Core features local development (In Progress)
+The following are being tested locally.
+- Push job
+- Fetch job
+- Flush job, flush all jobs
+- Mark job as success
+- Fail job
+- Automatic retries on job failures
+- Pending development
+  - Job scheduling
+  - APIs to produce/consume jobs local development
+
+# Phase 2: APIs to produce/consume jobs (Planned)
+- TBD - REST API 
+  
+# Phase 3: Web UI (Planned)
+- Expose a web UI that shows status of queues, jobs and workers. Perform some operations via UI (TBD).  
+
+# Phase 4: Advanced features (Planned) 
+- Batch job submission
+- Workflows
+  
